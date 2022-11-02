@@ -1,0 +1,4 @@
+﻿  teris.cpp
+D:\Dev\C++\Teris2\Teris\teris.cpp(143,19): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\Dev\C++\Teris2\Teris\teris.cpp(143,21): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  Teris.vcxproj -> D:\Dev\C++\Teris2\Teris\x64\Debug\Teris.exe
